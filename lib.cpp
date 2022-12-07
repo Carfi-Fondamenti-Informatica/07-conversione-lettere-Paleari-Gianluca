@@ -21,7 +21,7 @@ bool conversione(char &c) {
             c=c-32;
             return true;
         }
-    }
+    } 
 
 
 
